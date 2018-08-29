@@ -3,4 +3,4 @@ very first repository
 
 gummibears are ready, let's check this out.
 
-adding a little somthing
+adding a little something
